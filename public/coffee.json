@@ -1,0 +1,174 @@
+[
+    {
+        "category_name": "Cold Coffee",
+        "img": "https://i.ibb.co/6JQ0kVG/pexels-solodsha-8605915.jpg",
+        "ratting": 4.5,
+        "products":[
+                {
+                    "name": "The Iced Horchata Latte.",
+                    "img": "https://i.ibb.co/G31t9Z6/pexels-roman-odintsov-4552115.jpg",
+                    "price": 180,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Iced Viet (or Thai) Coffee.",
+                    "img": "https://i.ibb.co/88BT8cW/pexels-roman-odintsov-4552124.jpg",
+                    "price": 240,
+                    "ratting": 4.5
+                },
+                {
+                    "name": "Cold Brew.",
+                    "img": "https://i.ibb.co/NyjbPg2/pexels-roman-odintsov-4552170.jpg",
+                    "price": 330,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Cold Brew + Beer.",
+                    "img": "https://i.ibb.co/4ps93sS/pexels-min-an-1432528.jpg",
+                    "price": 140,
+                    "ratting": 4.5
+                },
+                {
+                    "name": "Café Affogato.",
+                    "img": "https://i.ibb.co/pxZD9p8/pexels-johnny-edgardo-guzman-1889571.jpg",
+                    "price": 350,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "The Espresso or Coffee Milkshake.",
+                    "img": "https://i.ibb.co/sjcPDpF/pexels-archie-binamira-1193335.jpg",
+                    "price": 280,
+                    "ratting": 5
+                }
+            ]
+    },
+    {
+        "category_name": "Brewed Coffee",
+        "img": "https://i.ibb.co/kXB1f2V/pexels-chevanon-photography-302896.jpg",
+        "ratting": 3.5,
+        "products":[
+                {
+                    "name": "Veranda Blend",
+                    "img": "https://i.ibb.co/SBk6T5d/pexels-marta-dzedyshko-2067628.jpg",
+                    "price": 350,
+                    "ratting": 5
+                },
+                {
+                    "name": "Caffe Misto",
+                    "img": "https://i.ibb.co/c6hHjhg/pexels-samer-daboul-1627933.jpg",
+                    "price": 230,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Dark Roast Coffee",
+                    "img": "https://i.ibb.co/KzfY346/pexels-victor-freitas-685527.jpg",
+                    "price": 140,
+                    "ratting": 2.5
+                },
+                {
+                    "name": "Pike Place Roast",
+                    "img": "https://i.ibb.co/zR80hH3/pexels-arshad-sutar-1749303.jpg",
+                    "price": 280,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Decap Place Roast",
+                    "img": "https://i.ibb.co/McgkwmB/pexels-ollie-hoolachan-549222.jpg",
+                    "price": 160,
+                    "ratting": 5
+                },
+                {
+                    "name": "Caffee Americano",
+                    "img": "https://i.ibb.co/87TF6Rv/pexels-samer-daboul-1024332.jpg",
+                    "price": 290,
+                    "ratting": 4.5
+                }
+            ]
+    },
+    {
+        "category_name": "Black Coffee",
+        "img": "https://i.ibb.co/8sBRBYY/pexels-pratik-gupta-2748538.jpg",
+        "ratting": 5,
+        "products":[
+                {
+                    "name": "Espresso coffee",
+                    "img": "https://i.ibb.co/9V7X9p6/pexels-samer-daboul-1000702.jpg",
+                    "price": 320,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Flavored Coffee",
+                    "img": "https://i.ibb.co/dBs7tZd/pexels-caio-69976.jpg",
+                    "price": 280,
+                    "ratting": 2.5
+                },
+                {
+                    "name": "Iced Black Coffee",
+                    "img": "https://i.ibb.co/Xz8b5zx/pexels-hasan-albari-1579366.jpg",
+                    "price": 330,
+                    "ratting": 4.5
+                },
+                {
+                    "name": "Drip Coffee",
+                    "img": "https://i.ibb.co/Xz8b5zx/pexels-hasan-albari-1579366.jpg",
+                    "price": 160,
+                    "ratting": 5
+                },
+                {
+                    "name": "Long Black Coffee",
+                    "img": "https://i.ibb.co/nCgNsnr/pexels-ena-marinkovic-3599207.jpg",
+                    "price": 190,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Ristretto coffee",
+                    "img": "https://i.ibb.co/w7HZJkX/pexels-helena-lopes-1394841.jpg",
+                    "price": 240,
+                    "ratting": 4.5
+                }
+            ]
+    },
+    {
+        "category_name": "Lattes Coffee",
+        "img": "https://i.ibb.co/K96Q7Ns/pexels-edward-eyer-2228889.jpg",
+        "ratting": 4.5,
+        "products":[
+                {
+                    "name": "Pumpkin Spice Latte",
+                    "img": "https://i.ibb.co/2nC1tRz/pexels-hasan-albari-1085965.jpg",
+                    "price": 180,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Caramel Brule Latte",
+                    "img": "https://i.ibb.co/McgkwmB/pexels-ollie-hoolachan-549222.jpg",
+                    "price": 220,
+                    "ratting": 2.5
+                },
+                {
+                    "name": "Chestnut Praline Latte",
+                    "img": "https://i.ibb.co/7rGfpfv/pexels-maksim-goncharenok-4354627.jpg",
+                    "price": 360,
+                    "ratting": 4.5
+                },
+                {
+                    "name": "Suger Cokkie Latte",
+                    "img": "https://i.ibb.co/SvYRh3q/pexels-engin-akyurt-2848676.jpg",
+                    "price": 240,
+                    "ratting": 3.5
+                },
+                {
+                    "name": "Caffee Latte",
+                    "img": "https://i.ibb.co/3YGby6t/pexels-samer-daboul-1260299.jpg",
+                    "price": 190,
+                    "ratting": 4.5
+                },
+                {
+                    "name": "Cinnamon Dolci Latte",
+                    "img": "https://i.ibb.co/34KhzZk/pexels-quintin-gellar-1190165.jpg",
+                    "price": 130,
+                    "ratting": 3.5
+                }
+            ]
+    }
+]

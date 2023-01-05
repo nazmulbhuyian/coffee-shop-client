@@ -1,0 +1,50 @@
+[
+    {
+        "category_name": "Doypacks",
+        "img": "https://i.ibb.co/ngSBkW4/My-project.jpg",
+        "about":
+                {
+                    "name": "Doypacks",
+                    "img": "https://i.ibb.co/ngSBkW4/My-project.jpg",
+                    "price": 780,
+                    "ratting": 4.5,
+                    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus facilis, earum quia sint provident voluptas soluta voluptatem tempore ad itaque temporibus quam atque perferendis nemo repellat perspiciatis magnam sed iste voluptate. Possimus, quibusdam repellendus minima sunt officiis itaque dolor repellat voluptate commodi nesciunt delectus impedit aut fugiat, quidem optio at!"
+                }
+    },
+    {
+        "category_name": "Arabica",
+        "img": "https://i.ibb.co/mJVxShZ/My-project-1.jpg",
+        "about":
+                {
+                    "name": "Arabica",
+                    "img": "https://i.ibb.co/mJVxShZ/My-project-1.jpg",
+                    "price": 550,
+                    "ratting": 3.5,
+                    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus facilis, earum quia sint provident voluptas soluta voluptatem tempore ad itaque temporibus quam atque perferendis nemo repellat perspiciatis magnam sed iste voluptate. Possimus, quibusdam repellendus minima sunt officiis itaque dolor repellat voluptate commodi nesciunt delectus impedit aut fugiat, quidem optio at!"
+                }
+    },
+    {
+        "category_name": "Bourbon",
+        "img": "https://i.ibb.co/9WKqLcd/My-project-2.jpg",
+        "about":
+                {
+                    "name": "Bourbon",
+                    "img": "https://i.ibb.co/9WKqLcd/My-project-2.jpg",
+                    "price": 680,
+                    "ratting": 4.5,
+                    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus facilis, earum quia sint provident voluptas soluta voluptatem tempore ad itaque temporibus quam atque perferendis nemo repellat perspiciatis magnam sed iste voluptate. Possimus, quibusdam repellendus minima sunt officiis itaque dolor repellat voluptate commodi nesciunt delectus impedit aut fugiat, quidem optio at!"
+                }
+    },
+    {
+        "category_name": "Geisha",
+        "img": "https://i.ibb.co/r0YLZTw/My-project-3.jpg",
+        "about":
+                {
+                    "name": "Geisha",
+                    "img": "https://i.ibb.co/r0YLZTw/My-project-3.jpg",
+                    "price": 420,
+                    "ratting": 3.5,
+                    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus facilis, earum quia sint provident voluptas soluta voluptatem tempore ad itaque temporibus quam atque perferendis nemo repellat perspiciatis magnam sed iste voluptate. Possimus, quibusdam repellendus minima sunt officiis itaque dolor repellat voluptate commodi nesciunt delectus impedit aut fugiat, quidem optio at!"
+                }
+    }
+]
